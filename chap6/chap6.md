@@ -391,8 +391,6 @@ This means that since SLList inherits all members of Object, VengefulSLList inhe
 
 As seen in the [documentation for the Object class](https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html), the Object class provides operations that every Object should be able to do - like `.equals(Object obj)`, `.hashCode()`, and `toString()`.
 
-{% embed url="https://www.youtube.com/watch?v=wrx\_y3ib5iQ&list=PL8FaHk7qbOD6fKeKJeEKxaFgVAZz2dseg" caption="" %}
-
 ### Is-a vs. Has-a
 
 _Important Note:_ The `extends` keyword defines "is-a", or hypernymic relationships. A common mistake is to instead use it for "has-a", or meronymic relationships.
